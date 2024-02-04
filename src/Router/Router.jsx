@@ -3,6 +3,10 @@ import React from 'react';
 import { createBrowserRouter } from 'react-router-dom';
 import App from '../App';
 import Layout from '../Component/Shared/Layout';
+import About from '../Pages/User/About/About';
+import ContactPage from '../Pages/User/ContactPage/ContactPage';
+import Agents from '../Pages/User/Home/Agents/Agents';
+import DetailsListing from '../Pages/User/DetailsListing/DetailsListing';
 
 export const router = createBrowserRouter([
     // Base Routes
@@ -19,10 +23,10 @@ export const router = createBrowserRouter([
             //   path: "listing",
             //   element: <Listing />,
             // },
-            // {
-            //   path: "detailsListing",
-            //   element: <DetailsListing />,
-            // },
+            {
+                path: "detailsListing",
+                element: <DetailsListing />,
+            },
             // {
             //   path: "cardDetails",
             //   element: <CardDetails />,
@@ -31,20 +35,20 @@ export const router = createBrowserRouter([
             //   path: "/contact",
             //   element: <Contact />,
             // },
-            // {
-            //   path: "contactDetails",
-            //   element: <ContactDetails />,
-            // },
-            // {
-            //   path: "agents",
+            {
+                path: "contactDetails",
+                element: <ContactPage />,
+            },
+            {
+                path: "agents",
 
-            //   element: <Agents />,
-            // },
+                element: <Agents />,
+            },
 
-            // {
-            //   path: "/about",
-            //   element: <About />,
-            // },
+            {
+                path: "/about",
+                element: <About />,
+            },
             // {
             //   path: "/login",
             //   element: <Login />,
