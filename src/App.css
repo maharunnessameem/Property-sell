@@ -1,0 +1,79 @@
+.css-13xfq8m-MuiTabPanel-root {
+  padding: 0px !important;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+  color: #fb8053 !important;
+  background-color: white !important;
+
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+  color: black !important;
+  font-weight: 900 !important;
+}
+
+.css-1aquho2-MuiTabs-indicator {
+  background-color: #fb8053 !important;
+}
+
+.slick-dots li button {
+  width: 40px !important;
+  height: 40px !important;
+  /* margin-top: 6px; */
+}
+
+.slick-dots li button:before {
+  font-size: 8px !important;
+  border-color: white !important;
+  border: 2px !important;
+}
+
+.slick-dots li.slick-active button:before {
+  opacity: .75;
+  color: #fb8053;
+
+}
+
+
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}

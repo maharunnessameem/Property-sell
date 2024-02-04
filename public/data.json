@@ -1,0 +1,83 @@
+[
+    {
+        "img": "../src/assets/images/PropertiesCard/Card1.jpg",
+        "name": "Resort Living 1",
+        "bed": 3,
+        "bathroom": 2,
+        "area": "5x7m²",
+        "location": "Missouri 64776, Osceola, USA",
+        "frame": "RENT"
+    },
+    {
+        "img": "../src/assets/images/PropertiesCard/Card1.jpg",
+        "name": "Resort Living 2",
+        "bed": 3,
+        "bathroom": 2,
+        "area": "5x7m²",
+        "location": "Missouri 64776, Osceola, USA",
+        "frame": "RENT"
+    },
+    {
+        "img": "../src/assets/images/PropertiesCard/Card1.jpg",
+        "name": "Resort Living 3",
+        "bed": 3,
+        "bathroom": 2,
+        "area": "5x7m²",
+        "location": "Missouri 64776, Osceola, USA",
+        "frame": "RENT"
+    },
+    {
+        "img": "../src/assets/images/PropertiesCard/Card1.jpg",
+        "name": "Resort Living 4",
+        "bed": 3,
+        "bathroom": 2,
+        "area": "5x7m²",
+        "location": "Missouri 64776, Osceola, USA",
+        "frame": "POPULAR"
+    },
+    {
+        "img": "../src/assets/images/PropertiesCard/Card1.jpg",
+        "name": "Resort Living 5",
+        "bed": 3,
+        "bathroom": 2,
+        "area": "5x7m²",
+        "location": "Missouri 64776, Osceola, USA",
+        "frame": "POPULAR"
+    },
+    {
+        "img": "../src/assets/images/PropertiesCard/Card1.jpg",
+        "name": "Resort Living 6",
+        "bed": 3,
+        "bathroom": 2,
+        "area": "5x7m²",
+        "location": "Missouri 64776, Osceola, USA",
+        "frame": "SELL"
+    },
+    {
+        "img": "../src/assets/images/PropertiesCard/Card1.jpg",
+        "name": "Resort Living 7",
+        "bed": 3,
+        "bathroom": 2,
+        "area": "5x7m²",
+        "location": "Missouri 64776, Osceola, USA",
+        "frame": "POPULAR"
+    },
+    {
+        "img": "../src/assets/images/PropertiesCard/Card1.jpg",
+        "name": "Resort Living 8",
+        "bed": 3,
+        "bathroom": 2,
+        "area": "5x7m²",
+        "location": "Missouri 64776, Osceola, USA",
+        "frame": "POPULAR"
+    },
+    {
+        "img": "../src/assets/images/PropertiesCard/Card1.jpg",
+        "name": "Resort Living 9",
+        "bed": 3,
+        "bathroom": 2,
+        "area": "5x7m²",
+        "location": "Missouri 64776, Osceola, USA",
+        "frame": "RENT"
+    }
+]
